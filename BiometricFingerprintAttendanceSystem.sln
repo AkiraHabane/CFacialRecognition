@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiometricFingerprintAttendanceSystem", "BiometricFingerprintAttendanceSystem\BiometricFingerprintAttendanceSystem.csproj", "{3E6D8635-2304-4EEB-882F-68DB234D2680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6D8635-2304-4EEB-882F-68DB234D2680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6D8635-2304-4EEB-882F-68DB234D2680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6D8635-2304-4EEB-882F-68DB234D2680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6D8635-2304-4EEB-882F-68DB234D2680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD236F4E-A73D-4EEB-8FF1-12F91CD685B6}
+	EndGlobalSection
+EndGlobal

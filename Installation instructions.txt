@@ -1,0 +1,5 @@
+-Download wampp, xampp or mampp
+-Launch PhpMyAdmin
+-Create Database called 'facialrecognition'
+-Import the datase file
+-Launch the application from Debug folder
